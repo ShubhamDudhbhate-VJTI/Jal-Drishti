@@ -16,7 +16,7 @@ from .predictor import (
 
 
 BASE_DIR = Path(__file__).resolve().parents[2]
-LOCATION_JSON_PATH = BASE_DIR / "public" / "location" / "maharashtra.json"
+LOCATION_JSON_PATH = BASE_DIR / "frontend" / "public" / "location" / "maharashtra.json"
 
 location_store = LocationStore(str(LOCATION_JSON_PATH))
 
