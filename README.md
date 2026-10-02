@@ -17,6 +17,23 @@
 
 <hr />
 
+## 🎬 Live Demo
+
+<div align="center">
+  <p><b>See Jal Drishti in action — click the preview to watch the full walkthrough.</b></p>
+  <a href="https://drive.google.com/file/d/153vsAdUEXaV0S5VqBwXfykB1v32wcmjz/view?usp=sharing">
+    <img src="https://drive.google.com/thumbnail?id=153vsAdUEXaV0S5VqBwXfykB1v32wcmjz&sz=w1000" alt="Jal Drishti Demo" width="80%"/>
+  </a>
+  <br/><br/>
+  <em>Village-wise groundwater trends, risk analysis and the multilingual AI chatbot.</em>
+  <br/><br/>
+  <a href="https://drive.google.com/file/d/153vsAdUEXaV0S5VqBwXfykB1v32wcmjz/view?usp=sharing">
+    <img src="https://img.shields.io/badge/▶_Watch_Demo_Video-0EA5E9?style=for-the-badge&logo=googledrive&logoColor=white" alt="Watch Demo Video"/>
+  </a>
+</div>
+
+<br />
+
 ## 🌟 Overview
 
 **Jal Drishti** is a sophisticated, full-stack application designed to track groundwater levels, assess drought risks, and forecast water trends for villages across Maharashtra. Featuring a robust backend powered by **FastAPI** and **Supabase**, and an elegant frontend built with **React** and **TailwindCSS**, it brings critical agricultural data directly to farmers.
